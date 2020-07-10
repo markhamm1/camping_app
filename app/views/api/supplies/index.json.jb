@@ -1,0 +1,3 @@
+@supplies.map do |supply|
+  render partial: 'supply.json.jb', locals: {supply: supply}
+end

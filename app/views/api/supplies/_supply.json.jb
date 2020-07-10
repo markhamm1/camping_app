@@ -1,0 +1,6 @@
+{
+  id: supply.id,
+  name: supply.name,
+  department: supply.department,
+  price: supply.price
+}

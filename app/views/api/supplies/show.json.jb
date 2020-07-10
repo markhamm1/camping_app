@@ -1,0 +1,1 @@
+render partial: 'supply.json.jb', locals: {supply: @supply}
